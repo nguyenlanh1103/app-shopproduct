@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-accessible-accordion": "^5.0.0",
+    "react-router-dom": "^5.3.4",
+    "react-slick": "^0.29.0",
+    "sass": "^1.57.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
